@@ -11,31 +11,34 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! My name is Brenna! I use she/her pronouns. I am a Master's student studying Public Policy and Management at Heinz College at Carnegie Mellon University. I am from a suburb of Pittsburgh. Both my parents went to CMU, so I'm excited to be studying here as well. 
+In the past, I've worked for a local makerspace nonprofit called Assemble, a tutoring project out of CMU called PLUS, and The Pittsburgh Foundation. This summer, I've accepted an internship doing municipal planning in my hometown! 
+
+Final fun fact: I am an elected official! It's a very minor position in my home precinct called Inspector of Elections. I help run the polling place, certify the election results, and deliver the ballots at the end of the night. I've held this posiiotn since I was 18, in my freshman year of my undergraduate degree. It's not a hard job, just a long day, but it's the backbone of our elections. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+I am interested in learning more tools to make data visualizations, because currently all I really know is Excel.
+My current plan is to work with criminal justice public policy and messaging, maybe in the nonprofit field. However, I'm open to whereever life takes me! I just want to work with public policy to make the world a better place.
 
 # Portfolio
+Under the Portfolio section, pre-populate it with a few headers to future assignments, including your final project.   
+
+## Working With Tableau
+
+## Crafting for Clarity
+
+## Final Project
+
 
 # Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
