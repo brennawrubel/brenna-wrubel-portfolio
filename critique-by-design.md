@@ -9,43 +9,22 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+https://www.lendingtree.com/home/mortgage/vacant-homes-metros-study/
+
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+Looking at the visualization from the article, it seemed very clear and had a good use of color. The problem was, I felt like it wasn’t telling a good story with the data. It just listed the cities with the highest and lowest vacancy rates. I wanted to show something useful, and I care a lot about social policy. 
 
 ## Step three: Sketch a solution
 
-## Step four: Test the solution
+When I downloaded the data, I decided to play around with it first to see what the trends were and what all I could visualize. I made a bunch of visualizations in Tableau, starting with a scatterplot showing the relationship between median rent and vacancy rate. I made another one showing vacancy against median home values. Then I made a bar graph showing all the vacancy rates, a bar graph showing the number of vacant units in each city, and some stacked bar graphs showing common reasons for vacancy and how many homes are affected by each. 
+One that was speaking to me was the bar graph showing the number of vacant units. I wanted to be able to show the number of homeless people in each city to show how we do have housing for everyone, but that wasn’t in the dataset. So, I chose a few specific cities, looked up their numbers, and added them to the graph in text form. I chose New York, since it had the most vacant units, Pittsburgh, since I live here, and Austin, because it was farther down the graph so the text wouldn’t be crowded together. I decided to go a little further with the title, calling it “We Have Enough Housing for Everyone.” I hoped that the title, combined with the numbers of vacant units, would tell a compelling story about society’s use of resources.
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+## Step four: Test the solution - Feedback
 
-Questions to ask (modify these for your own interviews): 
+For the feedback session, I asked my group members which visualization they liked the best. All of them said the bar graph showing the number of vacant units was the most impactful. I checked with the professor that we were indeed allowed to tell a different story than the original visualization, which didn’t really have that opinionated title. The data shown was very simple, and I had already done a good bit of work on the visualization, so my group didn’t have many suggestions of things to change. They liked the way I had used a different color for the different common vacancy reasons. The one thing I wound up changing was adding the specific number of vacant units to the end of each bar, so you can tell without guessing from the column ticks below.
 
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
 
@@ -59,8 +38,8 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 </script>
 
 ## References
-_List any references you used here._
+N/A
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+N/A
 
