@@ -1,42 +1,33 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+# Outline - I have Chosen to Combine All These Sections Into One
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+For my project, I want to examine homelessness and housing vacancy in the U.S. I want to show that we have enough houses for everyone. I want to frame homelessness as a resource distribution problem, rather than an individual issue. 
+To start, I will show a plain bar graph with the number of homeless individuals in the U.S. in 2023, using a point in time estimate from the Department of Housing and Urban Development. Then, using the Shorthand animations, I will show the same graph but with the total number of vacant homes in 2023, using data from the Federal Reserve Bank of St. Louis. There are around 700,000 homeless people, compared to about 15 million vacant homes. I want to leverage the shock value of seeing the homelessness bar shrink to show comparison to the number of vacancies. 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+![Screenshot 2025-04-09 at 3 58 00 PM](https://github.com/user-attachments/assets/dfe25abb-6a76-49dc-85f7-ad6d642d386e)
 
-Text here...
+![Screenshot 2025-04-09 at 3 57 42 PM](https://github.com/user-attachments/assets/aa1c620a-1094-4b3d-8092-3600a9e5fa51)
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+After that, I plan to zoom in a little on individual cities. I will show my graph with the number of vacant units in the top 20 largest cities in the country. This is color-coded by the most common reason for vacancies, so I can use it to show that the main causes of home vacancies are renting and second/seasonal homes. 
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+<img width="991" alt="Screenshot 2025-04-09 at 6 57 51 PM" src="https://github.com/user-attachments/assets/608b2161-897c-45e6-aa02-cae2944a65b8" />
 
-Text here...
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+Next, I will highlight the unaffordability of housing, by showing a scatterplot of the median rent prices by vacancy rate for the top 50 largest cities. I will point out that none have a rent below $1,000 per month. I then plan to show the calculations for how many hours of a minimum wage job this takes to earn, compared to how many hours a 40-hour work week will give you per month. 
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+<img width="629" alt="Screenshot 2025-04-09 at 6 57 30 PM" src="https://github.com/user-attachments/assets/6287ef1a-26ed-4264-b53c-7299c8c6a03d" />
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I will use the data to argue that homelessness is a societal failure, not an individual one. Resource scarcity is an issue, but it’s not this issue. 
 
 ## References
-_List any references you used here._
+
+https://fred.stlouisfed.org/series/EVACANTUSQ176N
+https://www.huduser.gov/portal/sites/default/files/pdf/2023-AHAR-Part-1.pdf
+https://www.lendingtree.com/home/mortgage/vacant-homes-metros-study/
+
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
