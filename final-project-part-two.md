@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-This should be a link to the preview. If it doesn't work, I have share the project with the Professor and TA.
+This should be a link to the preview. If it doesn't work, I have shared the project with the Professor and TA.
 https://preview.shorthand.com/GMnbL25tTWphBw2O/responsive/desktop
 
 # User research 
