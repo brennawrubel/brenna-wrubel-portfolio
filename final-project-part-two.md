@@ -4,65 +4,33 @@
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 Text here!
+User Research/Interviews
+I interviewed several people at my dance club practice. A few of them work with data and Tableau as a job, so they were familiar with the field.
+Target Audience: local housing policymakers
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My ultimate target audience is housing policymakers, although American voters are another demographic that would be useful to reach.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+I want to make sure the draft is solid before I get into the final details. 
+My questions are:
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+Was there a clear storyline?
+Is there anything you think I should add or subtract?
+Did you understand all the visualizations?
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+The storyline was clear and flowed nicely.
+The first visualization needs to be resized, the current sizing cuts off the bottom axis.
+One person suggested a Prezi zoom in/out, although I don’t think that’s possible with Shorthand
+The sizes of the circles in scatter plot were confusing, since I didn’t have the key listed. The person suggested I maybe just use dots instead of a scale by size.
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+For Part III, I will resize the two visualizations at the beginning to make them easier to read. I will also change the last visualization to not have sized dots, because it doesn't add anything to the story.
+I may also include on a final slide the calculations I did for the number of hours on minimum wage you would have to work to afford an apartment. I will see how much time I have after the I build a script and practice what I have now.
